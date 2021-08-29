@@ -34,3 +34,9 @@ Small.args = {
   size: 'small',
   label: 'Button',
 };
+
+Primary.parameters = {
+  jsx: {
+    disable: true,
+  },
+};
